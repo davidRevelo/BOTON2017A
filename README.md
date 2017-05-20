@@ -11,3 +11,4 @@ btn = Button(tk, text = "Click me", command = nombre)
 btn.pack()
 
 
+# hay que agregarle al ing tambien para que vea como estamos trabajando.
