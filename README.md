@@ -13,8 +13,8 @@ btn.pack()
 def nombre2():
     print ("Byron Paredes")
 
-btn = Button(tk, text = "Click me", command = nombre2)
-btn.pack()
+btn2 = Button(tk, text = "Click me", command = nombre2)
+btn2.pack()
 
 def nombre3():
     print("Paul Valle")
