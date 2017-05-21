@@ -20,7 +20,13 @@ def nombre3():
     print("Paul Valle")
 
 btn = Button(tk, text = "Click me", command = nombre3)
-btn.pack()   
+btn.pack() 
+
+def nombre4():
+    print("Lizbeth Borja")
+
+btn = Button(tk, text = "Click me", command = nombre4)
+btn.pack()     
 
 
 
