@@ -37,3 +37,4 @@ btn5.pack()
 
 
 # hay que agregarle al ing tambien para que vea como estamos trabajando.
+#Si esta agregado tranquilos
