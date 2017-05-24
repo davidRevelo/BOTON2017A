@@ -4,6 +4,8 @@ Integrantes: Liz, Byron, Luis, Paul, David
 
 def nombre():
     print("Luis Falconí")
+def nombre5():
+    print("DAVID REVELO")
     
 from tkinter import *
 tk = Tk()
@@ -28,6 +30,10 @@ def nombre4():
 btn = Button(tk, text = "Click me", command = nombre4)
 btn.pack()     
 
+
+
+btn5 = Button(tk, text = "Click Aqui", command = nombre5)
+btn.pack() 
 
 
 # hay que agregarle al ing tambien para que vea como estamos trabajando.
