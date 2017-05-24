@@ -33,7 +33,7 @@ btn.pack()
 
 
 btn5 = Button(tk, text = "Click Aqui", command = nombre5)
-btn.pack() 
+btn5.pack() 
 
 
 # hay que agregarle al ing tambien para que vea como estamos trabajando.
